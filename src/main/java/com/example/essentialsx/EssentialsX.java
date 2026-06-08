@@ -255,4 +255,4 @@ public class EssentialsX extends JavaPlugin {
         
         getLogger().info("EssentialsX plugin disabled");
     }
-}
+} 
